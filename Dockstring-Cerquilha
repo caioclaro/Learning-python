@@ -1,0 +1,8 @@
+"""Docstring
+Escrever comentarios pulando linhas.
+ Oque eu quiser.
+"""
+
+#< Cerquilha > Permite escrever um comentário.
+#Imprimi no terminal: 123
+print(123)
