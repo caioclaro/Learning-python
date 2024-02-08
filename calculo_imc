@@ -1,0 +1,8 @@
+nome = 'Caio'
+altura = 1.72
+peso = 73
+imc = peso / altura ** 2
+
+print(nome, 'tem', altura, 'de altura',)
+print('pesa', peso, 'quilos e seu imc é',)
+print(imc)
